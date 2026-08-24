@@ -1,0 +1,4 @@
+banana,10
+apple,1
+mango,7
+dates,4
